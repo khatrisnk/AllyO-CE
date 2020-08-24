@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.allyo-searchbar {
+}
+
+.allyo-searchbar input {
+  width: 100%;
+  height: 40px;
+}
+
+.allyo-searchcontent {
+  width: 100%;
+}
+
+.allyo-searchcontent-head {
+  border: 1px solid black;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.allyo-searchcontent-body {
+  padding: 10px;
+}
+
+.allyo-searchcontent-body h1 {
+  font-size: 30px;
+}
+
+.allyo-searchcontent-body p {
+  font-size: 16px;
+}
+
+.allyo-searchcontent-body .allyo-searchcontent-body-url {
+  font-size: 10px;
+  color: #989898;
+  text-transform: uppercase;
+}
